@@ -1,0 +1,1 @@
+recursive-include keyvault2json *.txt *.py
